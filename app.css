@@ -1,0 +1,11 @@
+#search-box:focus{
+    border-color: #838bfc;
+}
+#search-result{
+    padding: 0;
+    width: 230px;
+}
+#search-result li{
+    list-style-type: none;
+    border: 1px solid #eeeeee;
+}
